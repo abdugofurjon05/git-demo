@@ -1,2 +1,4 @@
-this is first time i am using git 
+hello
 this next line 
+adding another 2 lines
+to know.
